@@ -1,0 +1,6 @@
+framework module Pods_XYAPPLogin_Tests {
+  umbrella header "Pods-XYAPPLogin_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

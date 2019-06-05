@@ -1,0 +1,22 @@
+{
+  "name": "XYAPPLogin",
+  "version": "0.1.0",
+  "summary": "A short description of XYAPPLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lxy8383@163.com/XYAPPLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lxy8383@163.com": "lxy8383@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lxy8383@163.com/XYAPPLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XYAPPLogin/Classes/**/*"
+}

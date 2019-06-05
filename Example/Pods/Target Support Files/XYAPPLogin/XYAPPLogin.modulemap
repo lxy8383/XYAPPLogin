@@ -1,0 +1,6 @@
+framework module XYAPPLogin {
+  umbrella header "XYAPPLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
